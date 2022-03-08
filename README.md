@@ -9,6 +9,6 @@ The other file is a python one where all the code is. Basically, what I did was 
 
 Then, I performed a small statistical analysis on the data to see if there was any correlation between variables that would explain the gross income of a movie.
 
-Finally, I performed an exploratory analysis on the data, trying to find trends on it, regarding directors, budget, genre, etc.
+Finally, I performed an exploratory analysis on the data, trying to find trends on it, regarding directors, budget, genre, etc. The conclusions of this analysis can be seen at the beginning of the Python file.
 
 The libraries I used for this project were NumPy, Pandas, Matplotlib and Seaborn. I wrote the whole code on Jupyter Notebooks.
